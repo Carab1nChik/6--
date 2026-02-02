@@ -17,7 +17,7 @@ export function Footer() {
           </div>
 
           <div className="text-center md:text-right">
-            <p className="text-sm text-muted-foreground">2025-2026 учебный год</p>
+            <p className="text-sm text-muted-foreground">2025 - 2026 учебный год</p>
           </div>
         </div>
       </div>
