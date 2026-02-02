@@ -10,7 +10,7 @@ export function AboutSection() {
             Наш класс - <span className="text-primary">6 «В»</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Современный, активный и успешный школьный коллектив
+            Современный, активный и успешный класс школы 32.
           </p>
         </div>
 
@@ -22,7 +22,7 @@ export function AboutSection() {
               </div>
               <div>
                 <p className="text-sm text-muted-foreground">Год обучения</p>
-                <p className="text-2xl font-bold text-foreground">2025-2026</p>
+                <p className="text-2xl font-bold text-foreground">2025 - 2026</p>
               </div>
             </CardContent>
           </Card>
@@ -45,7 +45,7 @@ export function AboutSection() {
           <CardContent className="p-8 text-center">
             <Quote className="h-10 w-10 text-primary mx-auto mb-4" />
             <p className="text-2xl md:text-3xl font-bold text-foreground italic text-balance">
-              «Вместе учимся — вместе побеждаем»
+              «Вместе учимся - вместе побеждаем»
             </p>
             <p className="text-muted-foreground mt-4">Девиз нашего класса</p>
           </CardContent>
