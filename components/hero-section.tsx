@@ -12,7 +12,7 @@ export function HeroSection() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: "url('/placeholder.svg?height=1080&width=1920')",
+            backgroundImage: "url('/image2url.com/r2/default/images/1770059611060-4245993e-86f1-428e-982c-94d989fd92e9.png?height=1080&width=1920')",
           }}
         />
         <div className="absolute inset-0 bg-background/70" />
