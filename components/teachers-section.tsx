@@ -46,6 +46,24 @@ const teachers = [
     achievements: ["Хороший учитель который отлично обьясняет.", "Биолог"],
     image: "/placeholder.svg?height=200&width=200",
   },
+  {
+    name: "Красковский Александр Александрович",
+    subject: "География",
+    achievements: ["Очень добрый и проффисиональный учитель.", "Магистр"],
+    image: "/placeholder.svg?height=200&width=200",
+  },
+  {
+    name: "Семенова Ольга Алексеевна",
+    subject: "Труды",
+    achievements: ["Добрый и понимающий учитель.", "Психолог"],
+    image: "/placeholder.svg?height=200&width=200",
+  },
+  {
+    name: "Песков Александр Александрович",
+    subject: "Труды",
+    achievements: ["Мегапрофессиональный, очень добрый учитель.", "???"],
+    image: "/placeholder.svg?height=200&width=200",
+  },
 ]
 
 export function TeachersSection() {
