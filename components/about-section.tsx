@@ -7,7 +7,7 @@ export function AboutSection() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            Наш класс — <span className="text-primary">6 «В»</span>
+            Наш класс - <span className="text-primary">6 «В»</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Современный, активный и успешный школьный коллектив
