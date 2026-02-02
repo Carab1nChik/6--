@@ -21,7 +21,7 @@ export function HeroSection() {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 text-center">
         <h1 className="text-5xl md:text-7xl font-bold text-foreground mb-4 text-balance">
-          6 «В» — <span className="text-primary">класс достижений</span>
+          6 «В» - <span className="text-primary">класс достижений</span>
         </h1>
         <p className="text-xl md:text-2xl text-foreground/80 mb-8">
           Учёба • Дружба • Успех
