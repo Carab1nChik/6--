@@ -11,15 +11,15 @@ const classTeacher = {
 
 const teachers = [
   {
-    name: "Ганина Полина Дмитриевна",
-    subject: "Русский язык и литература",
-    achievements: ["Профессиональный учитель.", "Бакалавр"],
-    image: "/placeholder.svg?height=200&width=200",
-  },
-  {
     name: "Шахян Арфине Вааговна",
     subject: "История",
     achievements: [".", "Историк"],
+    image: "/placeholder.svg?height=200&width=200",
+  }, 
+  {
+    name: "Ганина Полина Дмитриевна",
+    subject: "Русский язык и литература",
+    achievements: ["Профессиональный учитель.", "Бакалавр"],
     image: "/placeholder.svg?height=200&width=200",
   },
   {
