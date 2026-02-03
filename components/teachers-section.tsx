@@ -19,7 +19,7 @@ const teachers = [
   {
     name: "Шахян Арфине Вааговна",
     subject: "История",
-    achievements: ["Добрый и понимающий детей учитель.", "Историк"],
+    achievements: [".", "Историк"],
     image: "/placeholder.svg?height=200&width=200",
   },
   {
@@ -61,7 +61,7 @@ const teachers = [
   {
     name: "Песков Александр Александрович",
     subject: "Труды",
-    achievements: ["Мегапрофессиональный, очень добрый учитель.", "???"],
+    achievements: ["Мегапрофессиональный, очень добрый учитель.", "Филолог"],
     image: "/placeholder.svg?height=200&width=200",
   },
 ]
