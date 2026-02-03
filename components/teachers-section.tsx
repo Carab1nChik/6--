@@ -13,7 +13,7 @@ const teachers = [
   {
     name: "Шахян Арфине Вааговна",
     subject: "История",
-    achievements: [".", "Историк"],
+    achievements: ["Добрая и хорошая учительница.", "Историк"],
     image: "/placeholder.svg?height=200&width=200",
   }, 
   {
