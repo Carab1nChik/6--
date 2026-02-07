@@ -63,131 +63,144 @@ const students = [
     ],
   },
   {
-    name: "Генералова Весилиса",
+    name: "Драганова Настя",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Волейбол" },
+    ],
+  },
+  {
+    name: "Егорычев Матвей",
+    achievements: [
+      { type: "study", label: "Хорошист" },
+      { type: "sport", label: "Игры" },
+    ],
+  },
+  {
+    name: "Заикина Вика",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+    ],
+  },
+  {
+    name: "Зозулина Вика",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+    ],
+  },
+  {
+    name: "Коломойцева Юля",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Плавание" },
+    ],
+  },
+  {
+    name: "Корнев Саша",
+    achievements: [
+      { type: "study", label: "Хорошист" },
+    ],
+  },
+  {
+    name: "Королев Миша",
+    achievements: [
+      { type: "study", label: "Хорошист" },
+    ],
+  },
+  {
+    name: "Королева Олеся",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+    ],
+  },
+  {
+    name: "Минасуев Женя",
+    achievements: [
+      { type: "study", label: "Хорошист" },
+    ],
+  },
+  {
+    name: "Мурадян Давид",
+    achievements: [
+      { type: "study", label: "Хорошист" },
+    ],
+  },
+  {
+    name: "Нарышник Миша",
+    achievements: [
+      { type: "study", label: "Хорошист" },
+      { type: "sport", label: "Игры" },
+    ],
+  },
+  {
+    name: "Немет Даниель",
+    achievements: [
+      { type: "study", label: "Хорошист" },
+    ],
+  },
+  {
+    name: "Павлова Аня",
+    achievements: [
+      { type: "study", label: "Отличница" },
+    ],
+  },
+  {
+    name: "Парман Артем",
+    achievements: [
+      { type: "study", label: "Отличник },
+    ],
+  },
+  {
+    name: "Пронин Дима",
+    achievements: [
+      { type: "study", label: "Хорошист" },
+      { type: "sport", label: "Игры" },
+    ],
+  },
+  {
+    name: "Семенов Женя",
+    achievements: [
+      { type: "study", label: "Хорошист" },
+    ],
+  },
+  {
+    name: "Смолина Алена",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+    ],
+  },
+  {
+    name: "Тепаева Ксюша",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+    ],
+  },
+  {
+    name: "Титова Настя",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Баскетбол" },
+    ],
+  },
+  {
+    name: "Тукаева Диана",
     achievements: [
       { type: "study", label: "Хорошистка" },
       { type: "sport", label: "Самбо" },
     ],
   },
   {
-    name: "Генералова Весилиса",
+    name: "Филимохина Татьяна",
     achievements: [
       { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
     ],
   },
   {
-    name: "Генералова Весилиса",
+    name: "Яковлева Алина",
     achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
+      { type: "study", label: "Отличница" },
     ],
   },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  }
 ]
 
 const achievementIcons = {
