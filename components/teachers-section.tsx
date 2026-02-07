@@ -14,7 +14,6 @@ const teachers = [
     name: "Шахян Арфине Вааговна",
     subject: "История",
     achievements: ["Добрая и хорошая учительница.", "Историк"],
-    image: "/placeholder.svg?height=200&width=200",
   }, 
   {
     name: "Ганина Полина Дмитриевна",
