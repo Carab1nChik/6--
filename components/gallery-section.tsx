@@ -22,7 +22,7 @@ const galleryImages = [
   { id: 6, category: "events", src: "/mp2.png?height=400&width=600", title: "Экскурсия в музей древнерусской кухни" },
   { id: 7, category: "school", src: "/School3.png?height=400&width=600", title: "Школьная линейка 2023 года" },
   { id: 8, category: "class", src: "/chas3.png?height=400&width=600", title: "Классный час 2021 года" },
-  { id: 9, category: "events", src: "/mp3.png?height=400&width=600", title: "Экскурсия в учадьбу деда мороза в 2021 году" },
+  { id: 9, category: "events", src: "/mp3.png?height=400&width=600", title: "Экскурсия в усадьбу деда мороза в 2021 году" },
   { id: 10, category: "events", src: "/mp4.png?height=400&width=600", title: "Экскурсия в музей истории молока 2023" },
   { id: 11, category: "school", src: "/School4.png?height=400&width=600", title: "Школьная линейка 2020 года" },
   { id: 12, category: "class", src: "/chas4.png?height=400&width=600", title: "Мастер-классы" },
