@@ -4,10 +4,10 @@ import { BookOpen, Trophy, Palette } from "lucide-react"
 
 const students = [
   {
-    name: "Александр К.",
+    name: "Авагимян А.",
     achievements: [
-      { type: "study", label: "Отличник" },
-      { type: "sport", label: "Футбол" },
+      { type: "study", label: "Отличница" },
+      { type: "sport", label: "" },
     ],
   },
   {
