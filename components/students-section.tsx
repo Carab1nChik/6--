@@ -96,6 +96,97 @@ const students = [
       { type: "study", label: "Хорошистка" },
       { type: "sport", label: "Самбо" },
     ],
+  },
+  {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
+  },
+  {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
+  },
+  {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
+  },
+  {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
+  },
+  {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
+  },
+  {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
+  },
+  {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
+  },
+  {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
+  },
+  {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
+  },
+  {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
+  },
+  {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
+  },
+  {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
+  },
+  {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
   }
 ]
 
