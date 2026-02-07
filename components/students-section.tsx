@@ -4,60 +4,79 @@ import { BookOpen, Trophy, Palette } from "lucide-react"
 
 const students = [
   {
-    name: "Авагимян А.",
+    name: "Авагимян Амелия.",
     achievements: [
       { type: "study", label: "Отличница" },
     ],
   },
   {
-    name: "Мария С.",
+    name: "Акобян Арина.",
     achievements: [
-      { type: "study", label: "Призёр олимпиады" },
-      { type: "creative", label: "Танцы" },
+      { type: "study", label: "Хорошистка" },
     ],
   },
   {
-    name: "Дмитрий П.",
+    name: "Алексеев Дима",
     achievements: [
-      { type: "sport", label: "Баскетбол" },
+      { type: "sport", label: "Игры" },
+      { type: "study", label: "Отличник" },
+    ],
+  },
+  {
+    name: "Андрюхина Мирослава",
+    achievements: [
+      { type: "study", label: "Отличница" },
+    ],
+  },
+  {
+    name: "Анисимов Даня",
+    achievements: [
+      { type: "study", label: "Отличник" },
+      { type: "sport", label: "Игры" },
+    ],
+  },
+  {
+    name: "Батурина Маша",
+    achievements: [
+      { type: "creative", label: "Староста" },
+      { type: "study", label: "Отличница" },
+    ],
+  },
+  {
+    name: "Войтенков Коля",
+    achievements: [
+      { type: "sport", label: "Игры" },
       { type: "study", label: "Хорошист" },
     ],
   },
   {
-    name: "Анна В.",
+    name: "Генералова Весилиса",
     achievements: [
-      { type: "creative", label: "Художница" },
-      { type: "study", label: "Отличница" },
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
     ],
   },
+    {
+    name: "Генералова Весилиса",
+    achievements: [
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
+    ],
+  }
   {
-    name: "Иван М.",
+    name: "Генералова Весилиса",
     achievements: [
-      { type: "study", label: "Математика" },
-      { type: "sport", label: "Шахматы" },
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
     ],
-  },
+  }
   {
-    name: "Елена Т.",
+    name: "Генералова Весилиса",
     achievements: [
-      { type: "creative", label: "Музыка" },
-      { type: "study", label: "Языки" },
+      { type: "study", label: "Хорошистка" },
+      { type: "sport", label: "Самбо" },
     ],
-  },
-  {
-    name: "Сергей Л.",
-    achievements: [
-      { type: "sport", label: "Плавание" },
-      { type: "creative", label: "Фото" },
-    ],
-  },
-  {
-    name: "Ольга Н.",
-    achievements: [
-      { type: "study", label: "Биология" },
-      { type: "creative", label: "Рисование" },
-    ],
-  },
+  }
 ]
 
 const achievementIcons = {
