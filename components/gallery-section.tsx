@@ -15,17 +15,17 @@ const galleryCategories = [
 
 const galleryImages = [
   { id: 1, category: "school", src: "/School1.png?height=1980&width=1080", title: "Школьная линейка 2021 года" },
-  { id: 2, category: "school", src: "/School2.png?height=400&width=600", title: "Школа зимой" },
-  { id: 3, category: "class", src: "/chas1.png?height=400&width=600", title: "Общее фото класса" },
+  { id: 2, category: "school", src: "/School2.png?height=400&width=600", title: "Школьная линейка 2022 года" },
+  { id: 3, category: "class", src: "/chas1.png?height=400&width=600", title: "23 Февраля 2022 года" },
   { id: 4, category: "class", src: "/chas2.png?height=400&width=600", title: "На уроке" },
-  { id: 5, category: "events", src: "/mp1.png?height=400&width=600", title: "День знаний" },
-  { id: 6, category: "events", src: "/mp2.png?height=400&width=600", title: "Новогодний праздник" },
-  { id: 7, category: "school", src: "/School3.png?height=400&width=600", title: "Спортзал" },
-  { id: 8, category: "class", src: "/chas3.png?height=400&width=600", title: "Классный час" },
-  { id: 9, category: "events", src: "/mp3.png?height=400&width=600", title: "Конкурс талантов" },
-  { id: 10, category: "events", src: "/mp4.png?height=400&width=600", title: "Спортивные соревнования" },
-  { id: 11, category: "school", src: "/School4.png?height=400&width=600", title: "Библиотека" },
-  { id: 12, category: "class", src: "/chas4.png?height=400&width=600", title: "Проектная работа" },
+  { id: 5, category: "events", src: "/mp1.png?height=400&width=600", title: "Экскурсия в пекарню" },
+  { id: 6, category: "events", src: "/mp2.png?height=400&width=600", title: "Экскурсия в музей древнерусской кухни" },
+  { id: 7, category: "school", src: "/School3.png?height=400&width=600", title: "Школьная линейка 2023 года" },
+  { id: 8, category: "class", src: "/chas3.png?height=400&width=600", title: "Классный час 2021 года" },
+  { id: 9, category: "events", src: "/mp3.png?height=400&width=600", title: "Экскурсия в учадьбу деда мороза в 2021 году" },
+  { id: 10, category: "events", src: "/mp4.png?height=400&width=600", title: "Экскурсия в музей истории молока 2023" },
+  { id: 11, category: "school", src: "/School4.png?height=400&width=600", title: "Школьная линейка 2020 года" },
+  { id: 12, category: "class", src: "/chas4.png?height=400&width=600", title: "Мастер-классы" },
 ]
 
 export function GallerySection() {
