@@ -24,7 +24,7 @@ const galleryImages = [
   { id: 8, category: "class", src: "/chas3.png?height=400&width=600", title: "Классный час" },
   { id: 9, category: "events", src: "/mp3.png?height=400&width=600", title: "Конкурс талантов" },
   { id: 10, category: "events", src: "/mp4.png?height=400&width=600", title: "Спортивные соревнования" },
-  { id: 11, category: "school", src: "/school4.png?height=400&width=600", title: "Библиотека" },
+  { id: 11, category: "school", src: "/School4.png?height=400&width=600", title: "Библиотека" },
   { id: 12, category: "class", src: "/chas4.png?height=400&width=600", title: "Проектная работа" },
 ]
 
