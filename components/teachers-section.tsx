@@ -43,7 +43,7 @@ const teachers = [
   {
     name: "Южакова Юлия Николаевна",
     subject: "Биология",
-    achievements: ["Хороший учитель который отлично обьясняет.", "Биолог"],
+    achievements: ["Хороший учитель который отлично объясняет.", "Биолог"],
     image: "/placeholder-user2.jpg?height=200&width=200",
   },
   {
