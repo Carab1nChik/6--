@@ -7,7 +7,6 @@ const students = [
     name: "Авагимян А.",
     achievements: [
       { type: "study", label: "Отличница" },
-      { type: "sport", label: "" },
     ],
   },
   {
