@@ -6,7 +6,7 @@ const classTeacher = {
   name: "Беляева Карина Александровна",
   subject: "Математика",
   description: "Классный руководитель, который поддерживает нас в любой ситуации и помогает достичь высот в обучении.",
-  image: "/gramotiKA.png?height=300&width=300",
+  image: "/KA.jpg?height=300&width=300",
 }
 
 const teachers = [
