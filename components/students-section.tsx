@@ -201,6 +201,12 @@ const students = [
       { type: "study", label: "Отличница" },
     ],
   },
+  {
+    name: "Шитов Миша",
+    achievements: [
+      { type: "study", label: "Хорошист" },
+    ],
+  },
 ]
 
 const achievementIcons = {
