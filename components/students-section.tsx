@@ -57,10 +57,9 @@ const students = [
     ],
   },
   {
-    name: "Генералова Весилиса",
+    name: "Денчик Настя",
     achievements: [
       { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
     ],
   },
   {
@@ -78,110 +77,6 @@ const students = [
     ],
   },
   {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  }
-    {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  }
-    {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  }
-    {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  }
-    {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  }
-    {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  }
-    {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  }
-    {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  }
-    {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  }
-    {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  }
-    {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  }
-    {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  }
-    {
-    name: "Генералова Весилиса",
-    achievements: [
-      { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
-    ],
-  },
-  }
-    {
     name: "Генералова Весилиса",
     achievements: [
       { type: "study", label: "Хорошистка" },
