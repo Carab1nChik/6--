@@ -14,7 +14,7 @@ const galleryCategories = [
 ]
 
 const galleryImages = [
-  { id: 1, category: "school", src: "/placeholder.svg?height=400&width=600", title: "Здание школы" },
+  { id: 1, category: "school", src: "/School1.png?height=400&width=600", title: "Школьная линейка 2021 года" },
   { id: 2, category: "school", src: "/placeholder.svg?height=400&width=600", title: "Школа зимой" },
   { id: 3, category: "class", src: "/placeholder.svg?height=400&width=600", title: "Общее фото класса" },
   { id: 4, category: "class", src: "/placeholder.svg?height=400&width=600", title: "На уроке" },
