@@ -4,13 +4,13 @@ import { BookOpen, Trophy, Palette } from "lucide-react"
 
 const students = [
   {
-    name: "Авагимян Амелия.",
+    name: "Авагимян Амелия",
     achievements: [
       { type: "study", label: "Отличница" },
     ],
   },
   {
-    name: "Акобян Арина.",
+    name: "Акобян Арина",
     achievements: [
       { type: "study", label: "Хорошистка" },
     ],
@@ -126,7 +126,7 @@ const students = [
     ],
   },
   {
-    name: "Нарышник Миша",
+    name: "Нарышкин Миша",
     achievements: [
       { type: "study", label: "Хорошист" },
       { type: "sport", label: "Игры" },
