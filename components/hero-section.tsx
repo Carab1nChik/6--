@@ -12,7 +12,7 @@ export function HeroSection() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: "url('/photo.png?height=1080&width=1920')",
+            backgroundImage: "url('/photo.jpg?height=1080&width=1920')",
           }}
         />
         <div className="absolute inset-0 bg-background/70" />
