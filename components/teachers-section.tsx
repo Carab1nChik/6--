@@ -14,6 +14,7 @@ const teachers = [
     name: "Шахян Арфине Вааговна",
     subject: "История",
     achievements: ["Добрая и хорошая учительница.", "Историк"],
+    image: "/placeholder-user2.jpg?height=200&width=200",
   }, 
   {
     name: "Ганина Полина Дмитриевна",
@@ -25,43 +26,43 @@ const teachers = [
     name: "Арсентьев Алексей Сергеевич",
     subject: "Физическая Культура",
     achievements: ["Тренер футбольный команды.", "Высшая категория"],
-    image: "/placeholder.svg?height=200&width=200",
+    image: "/placeholder-user2.jpg?height=200&width=200",
   },
   {
     name: "Рахматуллаева Альбина Рашидовна",
     subject: "Английский язык (1 групп.)",
     achievements: ["Выдающийся учитель.", "Филолог"],
-    image: "/placeholder.svg?height=200&width=200",
+    image: "/placeholder-user2.jpg?height=200&width=200",
   },
   {
     name: "Мирошниченко Анастасия Александровна",
     subject: "Английский язык (2 групп.)",
     achievements: ["Интересный и добрый учитель.", "Инженер"],
-    image: "/placeholder.svg?height=200&width=200",
+    image: "/placeholder-user2.jpg?height=200&width=200",
   },
   {
     name: "Южакова Юлия Николаевна",
     subject: "Биология",
     achievements: ["Хороший учитель который отлично обьясняет.", "Биолог"],
-    image: "/placeholder.svg?height=200&width=200",
+    image: "/placeholder-user2.jpg?height=200&width=200",
   },
   {
     name: "Красковский Александр Александрович",
     subject: "География",
     achievements: ["Очень добрый и проффисиональный учитель.", "Магистр"],
-    image: "/placeholder.svg?height=200&width=200",
+    image: "/placeholder-user2.jpg?height=200&width=200",
   },
   {
     name: "Семенова Ольга Алексеевна",
     subject: "Труды",
     achievements: ["Добрый и понимающий учитель.", "Психолог"],
-    image: "/placeholder.svg?height=200&width=200",
+    image: "/placeholder-user2.jpg?height=200&width=200",
   },
   {
     name: "Песков Александр Александрович",
     subject: "Труды",
     achievements: ["Мегапрофессиональный, очень добрый учитель.", "Филолог"],
-    image: "/placeholder.svg?height=200&width=200",
+    image: "/placeholder-user2.jpg?height=200&width=200",
   },
 ]
 
