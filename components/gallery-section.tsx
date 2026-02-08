@@ -14,7 +14,7 @@ const galleryCategories = [
 ]
 
 const galleryImages = [
-  { id: 1, category: "school", src: "/centralstairs.jpg?height=1980&width=1080", title: "Центральная лестцина" },
+  { id: 1, category: "school", src: "/centralstairs.jpg?height=1980&width=1080", title: "Центральная лестница" },
   { id: 2, category: "school", src: "/sportzal.jpg?height=400&width=600", title: "Спортивный зал" },
   { id: 3, category: "class", src: "/chas1.png?height=400&width=600", title: "23 Февраля 2022 года" },
   { id: 4, category: "class", src: "/chas2.png?height=400&width=600", title: "На уроке" },
