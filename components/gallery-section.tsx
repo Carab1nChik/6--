@@ -14,17 +14,17 @@ const galleryCategories = [
 ]
 
 const galleryImages = [
-  { id: 1, category: "school", src: "/School1.png?height=1980&width=1080", title: "Школьная линейка 2021 года" },
-  { id: 2, category: "school", src: "/School2.png?height=400&width=600", title: "Школьная линейка 2022 года" },
+  { id: 1, category: "school", src: "/centralstairs.jpg?height=1980&width=1080", title: "Центральная лестцина" },
+  { id: 2, category: "school", src: "/sportzal.jpg?height=400&width=600", title: "Спортивный зал" },
   { id: 3, category: "class", src: "/chas1.png?height=400&width=600", title: "23 Февраля 2022 года" },
   { id: 4, category: "class", src: "/chas2.png?height=400&width=600", title: "На уроке" },
   { id: 5, category: "events", src: "/mp1.png?height=400&width=600", title: "Экскурсия в пекарню" },
   { id: 6, category: "events", src: "/mp2.png?height=400&width=600", title: "Экскурсия в музей древнерусской кухни" },
-  { id: 7, category: "school", src: "/School3.png?height=400&width=600", title: "Школьная линейка 2023 года" },
+  { id: 7, category: "school", src: "/aktovy.jpg?height=400&width=600", title: "Актовый зал" },
   { id: 8, category: "class", src: "/chas3.png?height=400&width=600", title: "Классный час 2021 года" },
   { id: 9, category: "events", src: "/mp3.png?height=400&width=600", title: "Экскурсия в усадьбу деда мороза в 2021 году" },
   { id: 10, category: "events", src: "/mp4.png?height=400&width=600", title: "Экскурсия в музей истории молока 2023" },
-  { id: 11, category: "school", src: "/School4.png?height=400&width=600", title: "Школьная линейка 2020 года" },
+  { id: 11, category: "school", src: "/stolovka.jpg?height=400&width=600", title: "Столовая" },
   { id: 12, category: "class", src: "/chas4.png?height=400&width=600", title: "Мастер-классы" },
 ]
 
