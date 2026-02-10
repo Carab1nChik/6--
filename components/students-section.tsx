@@ -186,7 +186,6 @@ const students = [
     name: "Тукаева Диана",
     achievements: [
       { type: "study", label: "Хорошистка" },
-      { type: "sport", label: "Самбо" },
     ],
   },
   {
