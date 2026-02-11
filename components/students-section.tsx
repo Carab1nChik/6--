@@ -147,7 +147,7 @@ const students = [
   {
     name: "Парман Артем",
     achievements: [
-      { type: "study", label: "Отличник" },
+      { type: "study", label: "Хоршист" },
     ],
   },
   {
