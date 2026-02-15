@@ -22,7 +22,7 @@ export function AboutSection() {
               </div>
               <div>
                 <p className="text-sm text-muted-foreground">Год обучения</p>
-                <p className="text-2xl font-bold text-foreground">2025 - 2026</p>
+                <p className="text-2xl font-bold text-foreground">Мы учимся вместе с 2020 года</p>
               </div>
             </CardContent>
           </Card>
@@ -34,7 +34,7 @@ export function AboutSection() {
               </div>
               <div>
                 <p className="text-sm text-muted-foreground">Количество учеников</p>
-                <p className="text-2xl font-bold text-foreground">34 человека</p>
+                <p className="text-2xl font-bold text-foreground">В нашем классе 35 человек</p>
               </div>
             </CardContent>
           </Card>
