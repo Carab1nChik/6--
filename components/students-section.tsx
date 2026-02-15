@@ -207,7 +207,7 @@ const students = [
     ],
   },
   {
-    name: "Воронковва Аня",
+    name: "Воронкова Аня",
     achievements: [
       { type: "study", label: "Отличница" },
     ],
