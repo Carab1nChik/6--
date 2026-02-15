@@ -251,7 +251,7 @@ export function StudentsSection() {
               <div className="absolute inset-0 bg-gradient-to-t from-background/90 to-transparent" />
               <div className="absolute bottom-0 left-0 right-0 p-6 text-center">
                 <h3 className="text-2xl font-bold text-foreground">Наша команда</h3>
-                <p className="text-muted-foreground">34 ученика • 2025-2026 учебный год</p>
+                <p className="text-muted-foreground">35 учеников • С 2020 года вместе</p>
               </div>
             </div>
           </CardContent>
