@@ -206,6 +206,12 @@ const students = [
       { type: "study", label: "Хорошист" },
     ],
   },
+  {
+    name: "Воронковва Аня",
+    achievements: [
+      { type: "study", label: "Отличница" },
+    ],
+  },
 ]
 
 const achievementIcons = {
