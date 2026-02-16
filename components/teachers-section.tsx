@@ -30,13 +30,13 @@ const teachers = [
   },
   {
     name: "Рахматуллаева Альбина Рашидовна",
-    subject: "Английский язык (1 групп.)",
+    subject: "Английский язык",
     achievements: ["Филолог"],
     image: "/placeholder-user2.jpg?height=200&width=200",
   },
   {
     name: "Мирошниченко Анастасия Александровна",
-    subject: "Английский язык (2 групп.)",
+    subject: "Английский язык",
     achievements: ["Учитель английского"],
     image: "/placeholder-user2.jpg?height=200&width=200",
   },
@@ -54,13 +54,13 @@ const teachers = [
   },
   {
     name: "Семенова Ольга Алексеевна",
-    subject: "Труды",
+    subject: "Труд",
     achievements: ["Психолог"],
     image: "/placeholder-user2.jpg?height=200&width=200",
   },
   {
     name: "Песков Александр Александрович",
-    subject: "Труды",
+    subject: "Труд",
     achievements: ["Филолог"],
     image: "/placeholder-user2.jpg?height=200&width=200",
   },
