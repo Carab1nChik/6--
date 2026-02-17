@@ -6,6 +6,7 @@ const students = [
   {
     name: "Авагимян Амелия",
     achievements: [
+            { type: "sport", label: "Волейбол" },
       { type: "study", label: "Отличница" },
     ],
   },
@@ -13,12 +14,14 @@ const students = [
   {
     name: "Азизов Дамир",
     achievements: [
+            { type: "sport", label: "Волейбол" },
       { type: "study", label: "Хорошист" },
     ],
   },
   {
     name: "Акобян Арина",
     achievements: [
+      { type: "sport", label: "Плавание" },
       { type: "study", label: "Хорошистка" },
     ],
   },
@@ -32,20 +35,21 @@ const students = [
   {
     name: "Андрюхина Мирослава",
     achievements: [
+            { type: "sport", label: "Танцы" },
       { type: "study", label: "Отличница" },
     ],
   },
   {
     name: "Анисимов Даня",
     achievements: [
-      { type: "study", label: "Отличник" },
+      { type: "study", label: "Рукопашный бой" },
       { type: "sport", label: "Игры" },
     ],
   },
   {
     name: "Батурина Маша",
     achievements: [
-      { type: "creative", label: "Староста" },
+      { type: "sport", label: "Волейбол" },
       { type: "study", label: "Отличница" },
     ],
   },
@@ -59,6 +63,7 @@ const students = [
   {
     name: "Воронкова Аня",
     achievements: [
+            { type: "creative", label: "Худ. школа" },
       { type: "study", label: "Отличница" },
     ],
   },
@@ -72,6 +77,7 @@ const students = [
   {
     name: "Денчик Настя",
     achievements: [
+            { type: "sport", label: "Плавание" },
       { type: "study", label: "Хорошистка" },
     ],
   },
@@ -92,12 +98,14 @@ const students = [
   {
     name: "Заикина Вика",
     achievements: [
+      { type: "sport", label: "Волейбол" },
       { type: "study", label: "Хорошистка" },
     ],
   },
   {
     name: "Зозулина Вика",
     achievements: [
+      { type: "sport", label: "Танцы" },
       { type: "study", label: "Хорошистка" },
     ],
   },
@@ -111,30 +119,35 @@ const students = [
   {
     name: "Корнев Саша",
     achievements: [
+      { type: "sport", label: "Игры" },
       { type: "study", label: "Хорошист" },
     ],
   },
   {
     name: "Королев Миша",
     achievements: [
+      { type: "sport", label: "Игры" },
       { type: "study", label: "Хорошист" },
     ],
   },
   {
     name: "Королева Олеся",
     achievements: [
+      { type: "sport", label: "Танцы" },
       { type: "study", label: "Хорошистка" },
     ],
   },
   {
     name: "Минасуев Женя",
     achievements: [
+      { type: "sport", label: "Плавание" },
       { type: "study", label: "Хорошист" },
     ],
   },
   {
     name: "Мурадян Давид",
     achievements: [
+      { type: "sport", label: "Тхэквандо" },
       { type: "study", label: "Хорошист" },
     ],
   },
@@ -148,18 +161,21 @@ const students = [
   {
     name: "Немет Даниель",
     achievements: [
+      { type: "sport", label: "Игры" },
       { type: "study", label: "Хорошист" },
     ],
   },
   {
     name: "Павлова Аня",
     achievements: [
+      { type: "sport", label: "Тхэквандо" },
       { type: "study", label: "Отличница" },
     ],
   },
   {
     name: "Парман Артем",
-    achievements: [
+    achievements: [ 
+      { type: "sport", label: "Рукопашный бой" },
       { type: "study", label: "Хоршист" },
     ],
   },
@@ -167,24 +183,27 @@ const students = [
     name: "Пронин Дима",
     achievements: [
       { type: "study", label: "Хорошист" },
-      { type: "sport", label: "Игры" },
+      { type: "sport", label: "Скейтбординг" },
     ],
   },
   {
     name: "Семенов Женя",
-    achievements: [
+    achievements: [ 
+      { type: "creative", label: "Готовка" },
       { type: "study", label: "Хорошист" },
     ],
   },
   {
     name: "Смолина Алена",
-    achievements: [
+    achievements: [ 
+      { type: "sport", label: "Танцы" },
       { type: "study", label: "Хорошистка" },
     ],
   },
   {
     name: "Тепаева Ксюша",
-    achievements: [
+    achievements: [ 
+      { type: "creative", label: "Худ. школа" },
       { type: "study", label: "Хорошистка" },
     ],
   },
@@ -197,25 +216,29 @@ const students = [
   },
   {
     name: "Тукаева Диана",
-    achievements: [
+    achievements: [ 
+      { type: "sport", label: "Волейбол" },
       { type: "study", label: "Хорошистка" },
     ],
   },
   {
     name: "Филимохина Татьяна",
-    achievements: [
+    achievements: [ 
+      { type: "sport", label: "Волейбол" },
       { type: "study", label: "Хорошистка" },
     ],
   },
   {
     name: "Шитов Миша",
-    achievements: [
+    achievements: [ 
+      { type: "sport", label: "Футбол" },
       { type: "study", label: "Хорошист" },
     ],
   },
   {
     name: "Яковлева Алина",
-    achievements: [
+    achievements: [ 
+      { type: "sport", label: "Худ. школа" },
       { type: "study", label: "Отличница" },
     ],
   },
