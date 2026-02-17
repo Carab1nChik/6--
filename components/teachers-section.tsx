@@ -26,19 +26,19 @@ const teachers = [
     name: "Арсентьев Алексей Сергеевич",
     subject: "Физическая Культура",
     achievements: ["Высшая категория"],
-    image: "/AS?height=200&width=200",
+    image: "/AS.jpg?height=200&width=200",
   },
   {
     name: "Рахматуллаева Альбина Рашидовна",
     subject: "Английский язык",
     achievements: ["Филолог"],
-    image: "/Raxmat?height=200&width=200",
+    image: "/Raxmat.jpg?height=200&width=200",
   },
   {
     name: "Мирошниченко Анастасия Александровна",
     subject: "Английский язык",
     achievements: ["Учитель английского"],
-    image: "/AA?height=200&width=200",
+    image: "/AA.jpg?height=200&width=200",
   },
   {
     name: "Южакова Юлия Николаевна",
@@ -50,19 +50,19 @@ const teachers = [
     name: "Красковский Александр Александрович",
     subject: "География",
     achievements: ["Магистр"],
-    image: "/SK?height=200&width=200",
+    image: "/SK.jpg?height=200&width=200",
   },
   {
     name: "Семенова Ольга Алексеевна",
     subject: "Труд",
     achievements: ["Психолог"],
-    image: "/OA?height=200&width=200",
+    image: "/OA.jpg?height=200&width=200",
   },
   {
     name: "Песков Александр Александрович",
     subject: "Труд",
     achievements: ["Филолог"],
-    image: "/SS?height=200&width=200",
+    image: "/SS.jpg?height=200&width=200",
   },
 ]
 
