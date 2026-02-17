@@ -238,7 +238,7 @@ const students = [
   {
     name: "Яковлева Алина",
     achievements: [ 
-      { type: "sport", label: "Худ. школа" },
+      { type: "creative", label: "Худ. школа" },
       { type: "study", label: "Отличница" },
     ],
   },
@@ -327,7 +327,7 @@ export function StudentsSection() {
             <span className="text-sm text-muted-foreground">Учёба</span>
           </div>
           <div className="flex items-center gap-2">
-            <Trophy className="h-4 w-4 text-green-400" />
+            <Trophy className="h-4 w-4 text-red-400" />
             <span className="text-sm text-muted-foreground">Спорт</span>
           </div>
           <div className="flex items-center gap-2">
