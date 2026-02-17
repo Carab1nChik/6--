@@ -9,6 +9,13 @@ const students = [
       { type: "study", label: "Отличница" },
     ],
   },
+  
+  {
+    name: "Азизов Дамир",
+    achievements: [
+      { type: "study", label: "Хорошист" },
+    ],
+  },
   {
     name: "Акобян Арина",
     achievements: [
@@ -50,7 +57,13 @@ const students = [
     ],
   },
   {
-    name: "Генералова Весилиса",
+    name: "Воронкова Аня",
+    achievements: [
+      { type: "study", label: "Отличница" },
+    ],
+  },
+  {
+    name: "Генералова Василисса",
     achievements: [
       { type: "study", label: "Хорошистка" },
       { type: "sport", label: "Самбо" },
@@ -195,19 +208,13 @@ const students = [
     ],
   },
   {
-    name: "Яковлева Алина",
-    achievements: [
-      { type: "study", label: "Отличница" },
-    ],
-  },
-  {
     name: "Шитов Миша",
     achievements: [
       { type: "study", label: "Хорошист" },
     ],
   },
   {
-    name: "Воронкова Аня",
+    name: "Яковлева Алина",
     achievements: [
       { type: "study", label: "Отличница" },
     ],
