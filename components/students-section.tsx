@@ -6,7 +6,7 @@ import Image from "next/image"
 const students = [
   {
     name: "Авагимян Амелия",
-    photo: "/placeholder-user.jpg",
+    photo: "/avagiman.JPG",
     achievements: [
       { type: "sport", label: "Волейбол" },
       { type: "study", label: "Отличница" },
@@ -14,7 +14,7 @@ const students = [
   },
   {
     name: "Азизов Дамир",
-    photo: "/placeholder-user.jpg",
+    photo: "/azizka.JPG",
     achievements: [
       { type: "sport", label: "Волейбол" },
       { type: "study", label: "Хорошист" },
@@ -22,7 +22,7 @@ const students = [
   },
   {
     name: "Акобян Арина",
-    photo: "/placeholder-user.jpg",
+    photo: "/akoban.JPG",
     achievements: [
       { type: "sport", label: "Плавание" },
       { type: "study", label: "Хорошистка" },
@@ -30,7 +30,7 @@ const students = [
   },
   {
     name: "Алексеев Дима",
-    photo: "/placeholder-user.jpg",
+    photo: "/alekseev.JPG",
     achievements: [
       { type: "sport", label: "Игры" },
       { type: "study", label: "Отличник" },
@@ -38,7 +38,7 @@ const students = [
   },
   {
     name: "Андрюхина Мирослава",
-    photo: "/placeholder-user.jpg",
+    photo: "/andruhina.JPG",
     achievements: [
       { type: "sport", label: "Танцы" },
       { type: "study", label: "Отличница" },
@@ -46,7 +46,7 @@ const students = [
   },
   {
     name: "Анисимов Даня",
-    photo: "/placeholder-user.jpg",
+    photo: "/anisimov.JPG",
     achievements: [
       { type: "study", label: "Рукопашный бой" },
       { type: "sport", label: "Игры" },
@@ -54,7 +54,7 @@ const students = [
   },
   {
     name: "Батурина Маша",
-    photo: "/placeholder-user.jpg",
+    photo: "/baturina.JPG",
     achievements: [
       { type: "sport", label: "Волейбол" },
       { type: "study", label: "Отличница" },
@@ -62,7 +62,7 @@ const students = [
   },
   {
     name: "Войтенков Коля",
-    photo: "/placeholder-user.jpg",
+    photo: "/voitenkov.JPG",
     achievements: [
       { type: "sport", label: "Игры" },
       { type: "study", label: "Хорошист" },
@@ -70,7 +70,7 @@ const students = [
   },
   {
     name: "Воронкова Аня",
-    photo: "/placeholder-user.jpg",
+    photo: "/placeholder-user.jpg", // Нет фото
     achievements: [
       { type: "creative", label: "Худ. школа" },
       { type: "study", label: "Отличница" },
@@ -78,7 +78,7 @@ const students = [
   },
   {
     name: "Генералова Василисса",
-    photo: "/placeholder-user.jpg",
+    photo: "/generalova.JPG",
     achievements: [
       { type: "study", label: "Хорошистка" },
       { type: "sport", label: "Самбо" },
@@ -86,7 +86,7 @@ const students = [
   },
   {
     name: "Денчик Настя",
-    photo: "/placeholder-user.jpg",
+    photo: "/denchik.JPG",
     achievements: [
       { type: "sport", label: "Плавание" },
       { type: "study", label: "Хорошистка" },
@@ -94,7 +94,7 @@ const students = [
   },
   {
     name: "Драганова Настя",
-    photo: "/placeholder-user.jpg",
+    photo: "/draganova.JPG",
     achievements: [
       { type: "study", label: "Хорошистка" },
       { type: "sport", label: "Волейбол" },
@@ -102,7 +102,7 @@ const students = [
   },
   {
     name: "Егорычев Матвей",
-    photo: "/placeholder-user.jpg",
+    photo: "/egorichev.JPG",
     achievements: [
       { type: "study", label: "Хорошист" },
       { type: "sport", label: "Игры" },
@@ -110,7 +110,7 @@ const students = [
   },
   {
     name: "Заикина Вика",
-    photo: "/placeholder-user.jpg",
+    photo: "/zaikina.JPG",
     achievements: [
       { type: "sport", label: "Волейбол" },
       { type: "study", label: "Хорошистка" },
@@ -118,7 +118,7 @@ const students = [
   },
   {
     name: "Зозулина Вика",
-    photo: "/placeholder-user.jpg",
+    photo: "/zazylina.JPG",
     achievements: [
       { type: "sport", label: "Танцы" },
       { type: "study", label: "Хорошистка" },
@@ -126,7 +126,7 @@ const students = [
   },
   {
     name: "Коломойцева Юля",
-    photo: "/placeholder-user.jpg",
+    photo: "/kolomo.JPG",
     achievements: [
       { type: "study", label: "Хорошистка" },
       { type: "sport", label: "Плавание" },
@@ -134,7 +134,7 @@ const students = [
   },
   {
     name: "Корнев Саша",
-    photo: "/placeholder-user.jpg",
+    photo: "/kornev.JPG",
     achievements: [
       { type: "sport", label: "Игры" },
       { type: "study", label: "Хорошист" },
@@ -142,7 +142,7 @@ const students = [
   },
   {
     name: "Королев Миша",
-    photo: "/placeholder-user.jpg",
+    photo: "/korolev.JPG",
     achievements: [
       { type: "sport", label: "Игры" },
       { type: "study", label: "Хорошист" },
@@ -150,7 +150,7 @@ const students = [
   },
   {
     name: "Королева Олеся",
-    photo: "/placeholder-user.jpg",
+    photo: "/koroleva.JPG",
     achievements: [
       { type: "sport", label: "Танцы" },
       { type: "study", label: "Хорошистка" },
@@ -158,7 +158,7 @@ const students = [
   },
   {
     name: "Минасуев Женя",
-    photo: "/placeholder-user.jpg",
+    photo: "/minasuev.JPG",
     achievements: [
       { type: "sport", label: "Плавание" },
       { type: "study", label: "Хорошист" },
@@ -166,7 +166,7 @@ const students = [
   },
   {
     name: "Мурадян Давид",
-    photo: "/placeholder-user.jpg",
+    photo: "/muradan.JPG",
     achievements: [
       { type: "sport", label: "Тхэквандо" },
       { type: "study", label: "Хорошист" },
@@ -174,7 +174,7 @@ const students = [
   },
   {
     name: "Нарышкин Миша",
-    photo: "/placeholder-user.jpg",
+    photo: "/narysh.JPG",
     achievements: [
       { type: "study", label: "Хорошист" },
       { type: "sport", label: "Игры" },
@@ -182,7 +182,7 @@ const students = [
   },
   {
     name: "Немет Даниель",
-    photo: "/placeholder-user.jpg",
+    photo: "/pidoras.JPG", // Судя по списку, это фото Немета
     achievements: [
       { type: "sport", label: "Игры" },
       { type: "study", label: "Хорошист" },
@@ -190,7 +190,7 @@ const students = [
   },
   {
     name: "Павлова Аня",
-    photo: "/placeholder-user.jpg",
+    photo: "/pavlova.JPG",
     achievements: [
       { type: "sport", label: "Тхэквандо" },
       { type: "study", label: "Отличница" },
@@ -198,7 +198,7 @@ const students = [
   },
   {
     name: "Парман Артем",
-    photo: "/placeholder-user.jpg",
+    photo: "/placeholder-user.jpg", // Нет фото
     achievements: [
       { type: "sport", label: "Рукопашный бой" },
       { type: "study", label: "Хорошист" },
@@ -206,7 +206,7 @@ const students = [
   },
   {
     name: "Пронин Дима",
-    photo: "/placeholder-user.jpg",
+    photo: "/pronin.JPG",
     achievements: [
       { type: "study", label: "Хорошист" },
       { type: "sport", label: "Скейтбординг" },
@@ -214,7 +214,7 @@ const students = [
   },
   {
     name: "Семенов Женя",
-    photo: "/placeholder-user.jpg",
+    photo: "/semenov.JPG",
     achievements: [
       { type: "creative", label: "Готовка" },
       { type: "study", label: "Хорошист" },
@@ -222,7 +222,7 @@ const students = [
   },
   {
     name: "Смолина Алена",
-    photo: "/placeholder-user.jpg",
+    photo: "/placeholder-user.jpg", // Нет фото
     achievements: [
       { type: "sport", label: "Танцы" },
       { type: "study", label: "Хорошистка" },
@@ -230,7 +230,7 @@ const students = [
   },
   {
     name: "Тепаева Ксюша",
-    photo: "/placeholder-user.jpg",
+    photo: "/tepaeva.JPG",
     achievements: [
       { type: "creative", label: "Худ. школа" },
       { type: "study", label: "Хорошистка" },
@@ -238,7 +238,7 @@ const students = [
   },
   {
     name: "Титова Настя",
-    photo: "/placeholder-user.jpg",
+    photo: "/titova.JPG",
     achievements: [
       { type: "study", label: "Хорошистка" },
       { type: "sport", label: "Баскетбол" },
@@ -246,7 +246,7 @@ const students = [
   },
   {
     name: "Тукаева Диана",
-    photo: "/placeholder-user.jpg",
+    photo: "/tukaevo.JPG",
     achievements: [
       { type: "sport", label: "Волейбол" },
       { type: "study", label: "Хорошистка" },
@@ -254,7 +254,7 @@ const students = [
   },
   {
     name: "Филимохина Татьяна",
-    photo: "/placeholder-user.jpg",
+    photo: "/filomohina.JPG",
     achievements: [
       { type: "sport", label: "Волейбол" },
       { type: "study", label: "Хорошистка" },
@@ -262,7 +262,7 @@ const students = [
   },
   {
     name: "Шитов Миша",
-    photo: "/placeholder-user.jpg",
+    photo: "/placeholder-user.jpg", // Нет фото
     achievements: [
       { type: "sport", label: "Футбол" },
       { type: "study", label: "Хорошист" },
@@ -270,7 +270,7 @@ const students = [
   },
   {
     name: "Яковлева Алина",
-    photo: "/placeholder-user.jpg",
+    photo: "/yakovleva.JPG",
     achievements: [
       { type: "creative", label: "Худ. школа" },
       { type: "study", label: "Отличница" },
