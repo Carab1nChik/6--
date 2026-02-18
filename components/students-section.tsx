@@ -274,7 +274,7 @@ export function StudentsSection() {
           <CardContent className="p-0">
             <div className="relative">
               <img
-                src="/photo.jpg?height=400&width=1200"
+                src="/Photo.jpg?height=400&width=1200"
                 alt="Общее фото класса 6 В"
                 className="w-full h-64 md:h-96 object-cover"
               />
