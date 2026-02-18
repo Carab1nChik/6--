@@ -13,7 +13,7 @@ const students = [
     ],
   },
   {
-    name: "Азизов Дамир",
+    name: "Азизов Дамир", // Главный сыныше блядины, после четверга удалю его нахуй
     photo: "/azizka.JPG",
     achievements: [
       { type: "sport", label: "Волейбол" },
@@ -45,7 +45,7 @@ const students = [
     ],
   },
   {
-    name: "Анисимов Даня",
+    name: "Анисимов Даня", // Сын блядоты
     photo: "/anisimov.JPG",
     achievements: [
       { type: "study", label: "Рукопашный бой" },
@@ -173,7 +173,7 @@ const students = [
     ],
   },
   {
-    name: "Нарышкин Миша",
+    name: "Нарышкин Миша", // Я, блядина
     photo: "/narysh.JPG",
     achievements: [
       { type: "study", label: "Хорошист" },
@@ -213,6 +213,14 @@ const students = [
     ],
   },
   {
+    name: "Ряполов Ваня", // Главный сыныше блядины, после четверга удалю его нахуй как и еще одного дауна
+    photo: "/pidoras.JPG",
+    achievements: [
+      { type: "sport", label: "Волейбол" },
+      { type: "study", label: "Хорошист" },
+    ],
+  },
+  {
     name: "Семенов Женя",
     photo: "/semenov.JPG",
     achievements: [
@@ -222,7 +230,7 @@ const students = [
   },
   {
     name: "Смолина Алена",
-    photo: "/placeholder-user.jpg", // Нет фото
+    photo: "/smolina.jpg",
     achievements: [
       { type: "sport", label: "Танцы" },
       { type: "study", label: "Хорошистка" },
@@ -262,7 +270,7 @@ const students = [
   },
   {
     name: "Шитов Миша",
-    photo: "/placeholder-user.jpg", // Нет фото
+    photo: "/placeholder-user.jpg", // Нет фото + сын шлюхи
     achievements: [
       { type: "sport", label: "Футбол" },
       { type: "study", label: "Хорошист" },
