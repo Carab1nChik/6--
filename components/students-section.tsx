@@ -8,7 +8,6 @@ const students = [
     achievements: [
       { type: "sport", label: "Волейбол" },
       { type: "study", label: "Отличница" },
-      { image: "/KA.jpg?height=300&width=300" },
     ],
   },
   
