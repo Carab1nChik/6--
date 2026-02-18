@@ -1,20 +1,18 @@
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { BookOpen, Trophy, Palette } from "lucide-react"
-import Image from "next/image"
 
 const students = [
   {
     name: "Авагимян Амелия",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Волейбол" },
       { type: "study", label: "Отличница" },
     ],
   },
+  
   {
     name: "Азизов Дамир",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Волейбол" },
       { type: "study", label: "Хорошист" },
@@ -22,7 +20,6 @@ const students = [
   },
   {
     name: "Акобян Арина",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Плавание" },
       { type: "study", label: "Хорошистка" },
@@ -30,7 +27,6 @@ const students = [
   },
   {
     name: "Алексеев Дима",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Игры" },
       { type: "study", label: "Отличник" },
@@ -38,15 +34,13 @@ const students = [
   },
   {
     name: "Андрюхина Мирослава",
-    photo: "/placeholder-user.jpg",
     achievements: [
-      { type: "sport", label: "Танцы" },
+            { type: "sport", label: "Танцы" },
       { type: "study", label: "Отличница" },
     ],
   },
   {
     name: "Анисимов Даня",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "study", label: "Рукопашный бой" },
       { type: "sport", label: "Игры" },
@@ -54,7 +48,6 @@ const students = [
   },
   {
     name: "Батурина Маша",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Волейбол" },
       { type: "study", label: "Отличница" },
@@ -62,7 +55,6 @@ const students = [
   },
   {
     name: "Войтенков Коля",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Игры" },
       { type: "study", label: "Хорошист" },
@@ -70,15 +62,13 @@ const students = [
   },
   {
     name: "Воронкова Аня",
-    photo: "/placeholder-user.jpg",
     achievements: [
-      { type: "creative", label: "Худ. школа" },
+            { type: "creative", label: "Худ. школа" },
       { type: "study", label: "Отличница" },
     ],
   },
   {
     name: "Генералова Василисса",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "study", label: "Хорошистка" },
       { type: "sport", label: "Самбо" },
@@ -86,15 +76,13 @@ const students = [
   },
   {
     name: "Денчик Настя",
-    photo: "/placeholder-user.jpg",
     achievements: [
-      { type: "sport", label: "Плавание" },
+            { type: "sport", label: "Плавание" },
       { type: "study", label: "Хорошистка" },
     ],
   },
   {
     name: "Драганова Настя",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "study", label: "Хорошистка" },
       { type: "sport", label: "Волейбол" },
@@ -102,7 +90,6 @@ const students = [
   },
   {
     name: "Егорычев Матвей",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "study", label: "Хорошист" },
       { type: "sport", label: "Игры" },
@@ -110,7 +97,6 @@ const students = [
   },
   {
     name: "Заикина Вика",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Волейбол" },
       { type: "study", label: "Хорошистка" },
@@ -118,7 +104,6 @@ const students = [
   },
   {
     name: "Зозулина Вика",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Танцы" },
       { type: "study", label: "Хорошистка" },
@@ -126,7 +111,6 @@ const students = [
   },
   {
     name: "Коломойцева Юля",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "study", label: "Хорошистка" },
       { type: "sport", label: "Плавание" },
@@ -134,7 +118,6 @@ const students = [
   },
   {
     name: "Корнев Саша",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Игры" },
       { type: "study", label: "Хорошист" },
@@ -142,7 +125,6 @@ const students = [
   },
   {
     name: "Королев Миша",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Игры" },
       { type: "study", label: "Хорошист" },
@@ -150,7 +132,6 @@ const students = [
   },
   {
     name: "Королева Олеся",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Танцы" },
       { type: "study", label: "Хорошистка" },
@@ -158,7 +139,6 @@ const students = [
   },
   {
     name: "Минасуев Женя",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Плавание" },
       { type: "study", label: "Хорошист" },
@@ -166,7 +146,6 @@ const students = [
   },
   {
     name: "Мурадян Давид",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Тхэквандо" },
       { type: "study", label: "Хорошист" },
@@ -174,7 +153,6 @@ const students = [
   },
   {
     name: "Нарышкин Миша",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "study", label: "Хорошист" },
       { type: "sport", label: "Игры" },
@@ -182,7 +160,6 @@ const students = [
   },
   {
     name: "Немет Даниель",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Игры" },
       { type: "study", label: "Хорошист" },
@@ -190,7 +167,6 @@ const students = [
   },
   {
     name: "Павлова Аня",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "sport", label: "Тхэквандо" },
       { type: "study", label: "Отличница" },
@@ -198,15 +174,13 @@ const students = [
   },
   {
     name: "Парман Артем",
-    photo: "/placeholder-user.jpg",
-    achievements: [
+    achievements: [ 
       { type: "sport", label: "Рукопашный бой" },
-      { type: "study", label: "Хорошист" },
+      { type: "study", label: "Хоршист" },
     ],
   },
   {
     name: "Пронин Дима",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "study", label: "Хорошист" },
       { type: "sport", label: "Скейтбординг" },
@@ -214,31 +188,27 @@ const students = [
   },
   {
     name: "Семенов Женя",
-    photo: "/placeholder-user.jpg",
-    achievements: [
+    achievements: [ 
       { type: "creative", label: "Готовка" },
       { type: "study", label: "Хорошист" },
     ],
   },
   {
     name: "Смолина Алена",
-    photo: "/placeholder-user.jpg",
-    achievements: [
+    achievements: [ 
       { type: "sport", label: "Танцы" },
       { type: "study", label: "Хорошистка" },
     ],
   },
   {
     name: "Тепаева Ксюша",
-    photo: "/placeholder-user.jpg",
-    achievements: [
+    achievements: [ 
       { type: "creative", label: "Худ. школа" },
       { type: "study", label: "Хорошистка" },
     ],
   },
   {
     name: "Титова Настя",
-    photo: "/placeholder-user.jpg",
     achievements: [
       { type: "study", label: "Хорошистка" },
       { type: "sport", label: "Баскетбол" },
@@ -246,32 +216,28 @@ const students = [
   },
   {
     name: "Тукаева Диана",
-    photo: "/placeholder-user.jpg",
-    achievements: [
+    achievements: [ 
       { type: "sport", label: "Волейбол" },
       { type: "study", label: "Хорошистка" },
     ],
   },
   {
     name: "Филимохина Татьяна",
-    photo: "/placeholder-user.jpg",
-    achievements: [
+    achievements: [ 
       { type: "sport", label: "Волейбол" },
       { type: "study", label: "Хорошистка" },
     ],
   },
   {
     name: "Шитов Миша",
-    photo: "/placeholder-user.jpg",
-    achievements: [
+    achievements: [ 
       { type: "sport", label: "Футбол" },
       { type: "study", label: "Хорошист" },
     ],
   },
   {
     name: "Яковлева Алина",
-    photo: "/placeholder-user.jpg",
-    achievements: [
+    achievements: [ 
       { type: "creative", label: "Худ. школа" },
       { type: "study", label: "Отличница" },
     ],
@@ -327,14 +293,12 @@ export function StudentsSection() {
             <Card key={student.name} className="bg-background border-border hover:border-primary/50 transition-colors">
               <CardContent className="p-4">
                 <div className="flex items-center gap-3 mb-3">
-                  <div className="w-10 h-10 rounded-full overflow-hidden bg-primary/20 flex-shrink-0">
-                    <img
-                      src={student.photo}
-                      alt={student.name}
-                      className="w-full h-full object-cover"
-                    />
+                  <div className="w-10 h-10 rounded-full bg-primary/20 flex items-center justify-center">
+                    <span className="text-primary font-bold text-sm">
+                      {student.name.split(" ")[0][0]}
+                    </span>
                   </div>
-                  <h3 className="font-semibold text-foreground truncate">{student.name}</h3>
+                  <h3 className="font-semibold text-foreground">{student.name}</h3>
                 </div>
                 <div className="flex flex-wrap gap-2">
                   {student.achievements.map((achievement) => {
