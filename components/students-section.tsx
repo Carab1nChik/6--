@@ -6,15 +6,16 @@ const students = [
   {
     name: "Авагимян Амелия",
     achievements: [
-            { type: "sport", label: "Волейбол" },
+      { type: "sport", label: "Волейбол" },
       { type: "study", label: "Отличница" },
+      { image: "/KA.jpg?height=300&width=300" },
     ],
   },
   
   {
     name: "Азизов Дамир",
     achievements: [
-            { type: "sport", label: "Волейбол" },
+      { type: "sport", label: "Волейбол" },
       { type: "study", label: "Хорошист" },
     ],
   },
