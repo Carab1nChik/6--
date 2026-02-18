@@ -181,8 +181,8 @@ const students = [
     ],
   },
   {
-    name: "Немет Даниель",
-    photo: "/pidoras.JPG", // Судя по списку, это фото Немета
+    name: "Немет Даниель", // Сын шлюхи но пусть будет типо эм
+    photo: "/nemet.JPG", 
     achievements: [
       { type: "sport", label: "Игры" },
       { type: "study", label: "Хорошист" },
