@@ -1,6 +1,7 @@
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { BookOpen, Trophy, Palette } from "lucide-react"
+import Image from "next/image"
 
 const students = [
   {
@@ -326,12 +327,14 @@ export function StudentsSection() {
             <Card key={student.name} className="bg-background border-border hover:border-primary/50 transition-colors">
               <CardContent className="p-4">
                 <div className="flex items-center gap-3 mb-3">
-                  <div className="w-10 h-10 rounded-full bg-primary/20 flex items-center justify-center">
-                    <span className="text-primary font-bold text-sm">
-                      {student.name.split(" ")[0][0]}
-                    </span>
+                  <div className="w-10 h-10 rounded-full overflow-hidden bg-primary/20 flex-shrink-0">
+                    <img
+                      src={student.photo}
+                      alt={student.name}
+                      className="w-full h-full object-cover"
+                    />
                   </div>
-                  <h3 className="font-semibold text-foreground">{student.name}</h3>
+                  <h3 className="font-semibold text-foreground truncate">{student.name}</h3>
                 </div>
                 <div className="flex flex-wrap gap-2">
                   {student.achievements.map((achievement) => {
