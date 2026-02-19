@@ -20,7 +20,7 @@ const teachers = [
     name: "Ганина Полина Дмитриевна",
     subject: "Русский язык и литература",
     achievements: ["Бакалавр"],
-    image: "/placeholder-user2.jpg?height=200&width=200",
+    image: "/IMG_5972.jpeg?height=200&width=200",
   },
   {
     name: "Арсентьев Алексей Сергеевич",
