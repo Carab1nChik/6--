@@ -222,7 +222,7 @@ const students = [
   },
   {
     name: "Семенов Женя",
-    photo: "/semenov.JPG",
+    photo: "/semenovv.JPG",
     achievements: [
       { type: "creative", label: "Готовка" },
       { type: "study", label: "Хорошист" },
@@ -270,7 +270,7 @@ const students = [
   },
   {
     name: "Шитов Миша",
-    photo: "/placeholder-user.jpg", // Нет фото + сын шлюхи
+    photo: "/IMG_5941.jpeg", // Нет фото + сын шлюхи
     achievements: [
       { type: "sport", label: "Футбол" },
       { type: "study", label: "Хорошист" },
