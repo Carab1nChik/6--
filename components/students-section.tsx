@@ -70,7 +70,7 @@ const students = [
   },
   {
     name: "Воронкова Аня",
-    photo: "/placeholder-user.jpg", // Нет фото
+    photo: "/IMG_5940.jpeg", // Нет фото
     achievements: [
       { type: "creative", label: "Худ. школа" },
       { type: "study", label: "Отличница" },
