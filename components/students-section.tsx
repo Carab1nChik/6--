@@ -224,7 +224,7 @@ const students = [
     name: "Семенов Женя",
     photo: "/semenovv.JPG",
     achievements: [
-      { type: "creative", label: "Готовка" },
+      { type: "creative", label: "Кулинария" },
       { type: "study", label: "Хорошист" },
     ],
   },
